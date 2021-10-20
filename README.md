@@ -1,16 +1,11 @@
-# weather_app
+# Meteo
 
-A new Flutter application.
+> A simple semi minimalistic weather app. (A project from my early Flutter days)
 
-## Getting Started
+## Features 📌
+* Clean design
+* Dark and light theme
+* Weather information from the open weather map API (including all the things you didn't need to know about weather until I put them in the app 😄)
 
-This project is a starting point for a Flutter application.
+## Todo 📝
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
